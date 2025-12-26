@@ -31,7 +31,7 @@ You can flas it via INO file, but it won't have changed name in HID
 
 # Calibration instructions
 1. Run SR-P Lite+ app
-2. Press "Connect"
+2. Port should connect by itself, if not, selecct correct port and press "Connect"
 3. Press "Set Min"
 4. Press fully pedal and press "Set Max"
 5. Press "Save", calibration shoud be saved and you shouldn't need to use software again :)

@@ -9,7 +9,7 @@ For now it only supports single sensor, so main usecase might be to add standalo
 - RJ11 6P4C connector (look for version with wires, not hole through pins)
 - Double sided adhesive (optional)
 
-# Wire layout:
+# Wire layout on RP2040:
 - Green: GND
 - Yellow: 3.3V
 - Red: GPIO26

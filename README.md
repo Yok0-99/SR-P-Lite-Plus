@@ -13,6 +13,7 @@ For now it only supports single sensor, so main usecase might be to add standalo
 - Green: GND
 - Yellow: 3.3V
 - Red: GPIO26
+- Black: Remove (useless)
 
 # 3D Printed parts
 https://makerworld.com/pl/models/2160450-sr-p-lite-plus#profileId-2342378

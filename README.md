@@ -3,6 +3,10 @@
 This modification allows you to use your SR-P Lite pedals outside Moza ecosystem.
 
 For now it only supports single sensor, so main usecase might be to add standalone loadcell or to use SR-P Lite clutch with SR-P pedals.
+# Features
+- 1000Hz Polling rate
+- up to 16 bit resolution
+- low latency
 
 # Required parts:
 - Waveshare RP2040 Zero

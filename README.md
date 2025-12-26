@@ -26,6 +26,8 @@ https://youtube.com/shorts/x3Vuukb6zZ0
 3. Grab UF2 file and put it into folder
 4. Controller now should flash itself
 5. Check if it is visible in joy.cpl or on https://hardwaretester.com/gamepad (In joy.cpl it should be visible as "RP2040 Zero", on Hardwaretester as "SR-P Lite+")
+### Note:
+You can flas it via INO file, but it won't have changed name in HID
 
 # Calibration instructions
 1. Run SR-P Lite+ app
